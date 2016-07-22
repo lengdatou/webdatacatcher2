@@ -46,3 +46,6 @@ Temporary Items
 *.xlsx
 webdatacatcher/config/datarecord.xls
 *.html
+.project
+*.pydevproject
+.settings/org.eclipse.core.resources.prefs
